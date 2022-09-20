@@ -1,7 +1,7 @@
 <div align="center"><h1 style="margin-bottom:0">Sapiens Delivery</h1></div>
 
 <p align="center">
-  ![logo](https://user-images.githubusercontent.com/74110291/191159535-01314a45-7e03-4ef4-b312-d782874e9758.png)
+  <img src="./logo.png" alt="Sapiens-Delivery-logo" width="120px" height="120px"/>
   <br>
   <i>Sapiens Delivery is an Android Delivery Application that links customers and delivery persons effectively.</i>
   <br>
